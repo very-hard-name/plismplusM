@@ -1,0 +1,12 @@
+{
+  "name": "plismplus",
+  "displayName": "plismplus",
+  "expo": {
+    "name": "plismplus",
+    "slug": "plismplus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

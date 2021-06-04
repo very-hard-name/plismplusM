@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702602694871",
+    "firebase_url": "https://plismplus.firebaseio.com",
+    "project_id": "plismplus",
+    "storage_bucket": "plismplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702602694871:android:6074f1c312168c8d022092",
+        "android_client_info": {
+          "package_name": "com.klnet.plismplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702602694871-ptikojnmrsm4sl7qed9thks1r0irekja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbU70-Gob4VLaQRbrDKwkw3PXJQIBEhnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702602694871-ptikojnmrsm4sl7qed9thks1r0irekja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
